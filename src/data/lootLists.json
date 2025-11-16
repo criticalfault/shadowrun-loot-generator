@@ -1,0 +1,2522 @@
+[
+  {
+  "id": "warehouse",
+  "name": "Warehouse",
+  "items": [
+    {
+      "name": "crates small-arms ammunition",
+      "quantityFormula": "1d6",
+      "valueFormula": "1d6x500"
+    },
+    {
+      "name": "Remington 990-pattern pump shotguns",
+      "quantityFormula": "2d6",
+      "valueFormula": "300"
+    },
+    {
+      "name": "Cyberdeck parts",
+      "quantityFormula": "1d6",
+      "valueFormula": "1d6x200"
+    },
+    {
+      "name": "Random electronics",
+      "quantityFormula": "1d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "trideo slot machines",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Optical Micro-Recorders",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Boots",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "5.56 Assault Rifles",
+      "quantityFormula": "2d6",
+      "valueFormula": "500"
+    },
+    {
+      "name": "Water Pipes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Cheap Cups",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Circuit Salvage Bins",
+      "quantityFormula": "1d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Cyberarm Parts",
+      "quantityFormula": "1d6",
+      "valueFormula": "1d6x200"
+    },
+    {
+      "name": "digital microscopes",
+      "quantityFormula": "2d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "Optical Memory Cartridge Drives",
+      "quantityFormula": "2d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "hobby-grade 3D fabbers",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "cyberterminal CPU boards",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x200"
+    },
+    {
+      "name": "lab centrifuges",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Trode Interface Bands",
+      "quantityFormula": "2d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "Simsense Decks (Playback Only)",
+      "quantityFormula": "2d6",
+      "valueFormula": "150"
+    },
+    {
+      "name": "Bulk Kaf Powder Tubs",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "dental tool sets",
+      "quantityFormula": "1d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Chinese-pattern surplus synth coats",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "ballistic military helmets",
+      "quantityFormula": "2d6",
+      "valueFormula": "150"
+    },
+    {
+      "name": "framed trideo-era posters",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "vid playback units",
+      "quantityFormula": "2d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "water filter units",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Industrial Hose Reels",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Water Pipes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "coin-op arcade cabinets",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "precision heat guns",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Drone Conversion Platforms",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x300"
+    },
+    {
+      "name": "Industrial Wash Units",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Portable Power Units (Gasoline)",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Heavy Pistols",
+      "quantityFormula": "2d6",
+      "valueFormula": "400"
+    },
+    {
+      "name": "automotive ECU modules",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Steel Storage Cabinets",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "vintage pinball machines",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Drone parts",
+      "quantityFormula": "1d6",
+      "valueFormula": "1d6x300"
+    },
+    {
+      "name": "Synthetic Cloth Robes",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x25"
+    },
+    {
+      "name": "Pueblo Corporate Council Industrial Fuel Rods",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "designer high-heel shoes",
+      "quantityFormula": "2d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "cheap digital watches",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "decorative mahogany boxes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "color laser printers",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Cybereye Optical Cores",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "overpriced athletic shoes",
+      "quantityFormula": "2d6",
+      "valueFormula": "250"
+    },
+    {
+      "name": "store mannequins",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "FUPS multiport hubs",
+      "quantityFormula": "2d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "LED wall clocks",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "sacks plastic resin pellets",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "computer speaker sets",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Myco Protein Tubes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Ute Incense Sticks",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "antique furniture",
+      "quantityFormula": "2d6",
+      "valueFormula": "varies"
+    },
+    {
+      "name": "Texas Guard jackets",
+      "quantityFormula": "2d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "cheap electric guitars",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "PLA filament spools",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "microwaves",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "rolls neoprene sheet",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Cultural Prayer Figurines",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "datachip notepads",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "small gig amplifiers",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "designer handbags",
+      "quantityFormula": "2d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "boxed jade chopsticks",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Faux Curry Spice in Plastic Replica Tins",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "DNI link cables",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "soapstone boxes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "packs of petri dishes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "nanotube fiber spools",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "FUPS keyboards",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "paper lanterns",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Shop Ventilation Fans",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "antique fortune-telling machines",
+      "quantityFormula": "1d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "antique typewriters",
+      "quantityFormula": "1d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Light Pistols",
+      "quantityFormula": "1d6",
+      "valueFormula": "300"
+    },
+    {
+      "name": "Material Handling Carts",
+      "quantityFormula": "1d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "lathes",
+      "quantityFormula": "1d6",
+      "valueFormula": "1000"
+    },
+    {
+      "name": "rebuilt hydrogen engines",
+      "quantityFormula": "1d6",
+      "valueFormula": "500"
+    },
+    {
+      "name": "sex-model android frames (nonfunctional)",
+      "quantityFormula": "1d6",
+      "valueFormula": "150"
+    },
+    {
+      "name": "security bot frames",
+      "quantityFormula": "1d6",
+      "valueFormula": "50"
+    },
+    {
+      "name": "hazmat suits",
+      "quantityFormula": "1d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Compressed Air Units",
+      "quantityFormula": "1d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "metal desks",
+      "quantityFormula": "1d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Water Pipes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "military gas masks",
+      "quantityFormula": "1d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Network Server Towers",
+      "quantityFormula": "1d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "Flat Display Terminals",
+      "quantityFormula": "1d6",
+      "valueFormula": "1d6x100"
+    },
+    {
+      "name": "jungle boots",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Pocket Secretaries (FUPS, Wired Only)",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "retro console cartridges",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Ute herbal medicines",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "LED light fixtures",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Synthetic Fur Coats",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Water Pipes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "knockoff sunglasses",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Bulk Rice Sacks (40 lb)",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "leggings",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Tea Bundles (Tir Origin)",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "language datachips",
+      "quantityFormula": "2d6",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Heavy Pistols",
+      "quantityFormula": "2d6",
+      "valueFormula": "400"
+    }
+  ]
+},
+{
+  "id": "goonpockets",
+  "name": "Goon's Pocket",
+  "items": [
+    {
+      "name": "Synthetic Pastry Bar",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Worn Leather Work Gloves",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Door Remote Fob (unknown lock)",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "1d6 Kaf Concentrate Packets",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Protein Jerky Stick (Insect Base)",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Pocket Multi-Tool (Rating 1)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "2d6 Cheap Tracer Rounds",
+      "quantityFormula": "2d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Bubblegum-Flavored Cigarettes (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Disposable Acid Tube (4 shots, 6L, ignores 1 Ballistic)",
+      "quantityFormula": "1",
+      "valueFormula": "40"
+    },
+    {
+      "name": "Flexible Vid-Probe (1d6×10 min power)",
+      "quantityFormula": "1",
+      "valueFormula": "100"
+    },
+    {
+      "name": "Tear Gas Micro-Can",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Synthetic Pizza Pocket",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Cheap Folding Blade",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "1d6 Tea Packets (Artificial Jasmine)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Still-Image Pocket Camera",
+      "quantityFormula": "1",
+      "valueFormula": "50"
+    },
+    {
+      "name": "1d4 Emergency Sealant Gels",
+      "quantityFormula": "1d4",
+      "valueFormula": "10"
+    },
+    {
+      "name": "2d6 Heavy-Pistol Gel Rounds",
+      "quantityFormula": "2d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Tiny Motor Mouse Toy",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Organic Residue Cleaner Spray (1d6 uses)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Synthetic Chocolate Bar",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Crumpled Newsprint (1d6 days old)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Self-Cleaning Portable Razor",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Inflatable Sleep Mat (patched)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Synthetic Vodka Flask",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Micro-Torch (1d6×10 min fuel)",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Folded Trideo Poster",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Micro Air Tank (8 min)",
+      "quantityFormula": "1",
+      "valueFormula": "50"
+    },
+    {
+      "name": "Synthetic Burger (note on wrapper)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Subvocal + Earbud Comms (Rating 3)",
+      "quantityFormula": "1",
+      "valueFormula": "100"
+    },
+    {
+      "name": "Counterfeit Corporate ID (Rating 2)",
+      "quantityFormula": "1",
+      "valueFormula": "50"
+    },
+    {
+      "name": "Locator Beacon (Rating 2, 30m)",
+      "quantityFormula": "1",
+      "valueFormula": "75"
+    },
+    {
+      "name": "Skinspray Patch",
+      "quantityFormula": "1",
+      "valueFormula": "50"
+    },
+    {
+      "name": "Cheap Optical Stylus",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "1d6 Poor Caseless Rounds",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Polymer Shuriken (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Synthetic Tea Brick",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Programmable Compass (1d6 markers)",
+      "quantityFormula": "1",
+      "valueFormula": "15"
+    },
+    {
+      "name": "Soapstone Trinket Box",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Store Credit Chip",
+      "quantityFormula": "1",
+      "valueFormula": "1d6x10"
+    },
+    {
+      "name": "Matchbook",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Dummy Silver Round",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "2d6 Fired Caseless Stubs",
+      "quantityFormula": "2d6",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Datachip Vault (3-slot, sticky latch)",
+      "quantityFormula": "1",
+      "valueFormula": "20"
+    },
+    {
+      "name": "Pocket Survival Kit",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Mini IR Flashlight",
+      "quantityFormula": "1",
+      "valueFormula": "20"
+    },
+    {
+      "name": "1d4 Reinforced Shoelaces",
+      "quantityFormula": "1d4",
+      "valueFormula": "0"
+    },
+    {
+      "name": "2d6 Myco Protein Tubes",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Mechanical Pencil",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Chemical Swab Strips (Rating 2, 1d6 uses)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Damaged Cyberdeck",
+      "quantityFormula": "1",
+      "valueFormula": "GM"
+    },
+    {
+      "name": "2d6 Plastic Business Cards",
+      "quantityFormula": "2d6",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Folded Warrant Poster",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Street Stimulant Capsules (Rating 2, 5d6)",
+      "quantityFormula": "5d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "1d6 Smoke Capsules (5m, 1d6 turns)",
+      "quantityFormula": "1d6",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Mini Firebomb Kit (1d6 bottles, 4M fire)",
+      "quantityFormula": "1d6",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Portable Water Purifier",
+      "quantityFormula": "1",
+      "valueFormula": "75"
+    },
+    {
+      "name": "Decorative Respirator (filter 1d6 min)",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Injector Blade (single-dose)",
+      "quantityFormula": "1",
+      "valueFormula": "50"
+    },
+    {
+      "name": "Cheap Athletic Wristband",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Sterile Syringe Kit",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Heavy Work Socks",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Worn Pocket Secretary (no memory)",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "LED Badge Button",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Soy Snack Pack",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Printed Trideo Photos",
+      "quantityFormula": "2d6",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Leather Scrap Keyring",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Folding Hair Dryer",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Broken Sling Clip",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Plastic Hand Mirror",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Paper Grocery Receipt",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Synthetic Chocolate-Chip Muffin",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Mini-Climbing Rig (6m, 80kg)",
+      "quantityFormula": "1",
+      "valueFormula": "50"
+    },
+    {
+      "name": "2d6 Low-Grade Incense Sticks",
+      "quantityFormula": "2d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Emergency Blanket",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Fuse Tester Keychain",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Plastic Sunglasses",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Spray Stencil Tool",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "1d6 Military Dog Tags (corroded)",
+      "quantityFormula": "1d6",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Folding Travel Bowl",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Soy-Noodle Cup",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Pocket Secretary Battery (half charge)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "1d6 Tea Candies",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Cheap Polymer Wallet",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Medical Patch Tape (single-use)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Lighter",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Travel Dental Kit",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Wrapped Razor Blade",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Soft-Sole Street Shoes",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "1d6 FUPS Patch Cables",
+      "quantityFormula": "1d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Multi-Language Phrase Card",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Synthetic-Skin Adhesive Strip",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Plastic Meditation Charm",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Nuke-and-Eat Chick'n Nugge Cup (Mongolian Flavor)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Portable Filter Straw",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Paper Note Pad",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Folded Street Map",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Synthetic Snack Cake",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "1d6 Audio Datachips",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Crew Lanyard (no badge)",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Dirty Work Rag",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    }
+  ]
+},
+{
+  "id": "apartment",
+  "name": "Apartment",
+  "items": [
+    {
+      "name": "Baggie: 1d6 doses street amphetamine",
+      "quantityFormula": "1d6",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Instant synthetic soy-noodle packs",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Old microwave cooker",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Wind-up tin toy robot",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Low-light goggles (Rating 1)",
+      "quantityFormula": "1",
+      "valueFormula": "75"
+    },
+    {
+      "name": "Stack of unpaid utility bills",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Plastic sheeting taped over window",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Crate of recycled bottles",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Wired CRT trideo screen",
+      "quantityFormula": "1",
+      "valueFormula": "varies"
+    },
+    {
+      "name": "Half-empty bottle of synthetic soy-sauce",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Dented steel pot",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Cheap plastic fan",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Plastic storage bins",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Mug with faded corporate logo",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Wall poster (urban combat team)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Stack of trideo case inserts with no discs",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Plastic drying rack",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Damp street magazines",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Ceiling light fixture with missing cover",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Plastic crate of old receipts",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Plastic laundry basket",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Wired hot plate",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Metal folding table (dented)",
+      "quantityFormula": "1",
+      "valueFormula": "20"
+    },
+    {
+      "name": "Glass jar of miscellaneous hardware",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Synthetic soy-oat bars",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Cheap floor cushion (flattened)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Empty FUPS cable sleeves",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Wired electric kettle",
+      "quantityFormula": "1",
+      "valueFormula": "9"
+    },
+    {
+      "name": "Loose change-chips",
+      "quantityFormula": "1",
+      "valueFormula": "1d6x2"
+    },
+    {
+      "name": "Empty poster tube",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Synthetic soy-flour tortilla wraps (stale)",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Metal waste bin",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Cracked ceramic bowl",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Peeling acoustic foam panels",
+      "quantityFormula": "1d6",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Newspaper used as doormat",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Stained plastic cutting board",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Plastic bowl of random unlabeled keys",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Wired alarm clock",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Synthetic flavor boost packets",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Folded plastic tarp",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Plastic cups",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Plastic bag of rubber bands",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Synthetic fabric house slippers",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Cracked plastic plate",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Synthetic stir-fry mix pouches",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Old curtain sheet (nailed up)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Bathroom cup with disposable razors",
+      "quantityFormula": "1d4",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Cheap dish soap bottle",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Empty plastic jug",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Ceiling hook with frayed rope loop",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Optical datachip with pirated tracks",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Hoodie with EL dragon piping",
+      "quantityFormula": "1",
+      "valueFormula": "15"
+    },
+    {
+      "name": "Dried bio-modified lizard tissue sample",
+      "quantityFormula": "1",
+      "valueFormula": "10-50"
+    },
+    {
+      "name": "Wired microphone + earbud",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Bag of synthetic ginger-flavored slices (half-eaten)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Single mattress on floor",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Empty synthetic broth pouches",
+      "quantityFormula": "1d3",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Fold-out metal chair (bent leg)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Box of old clothing",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Synthetic protein broth packets",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Wired clock radio",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Roll of industrial tape",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Thin synthetic towels",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Disposable synthetic pulp bowls",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Crushed crate of synthetic ramen bricks",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Mismatched metal utensils",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Wired landline handset (disconnected)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Box of assorted nails and screws",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Synthetic wool blankets",
+      "quantityFormula": "1d3",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Synthetic soy-paste meal pouches",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Plastic bucket (stained)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Worn carpet square",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Wired desk lamp",
+      "quantityFormula": "1",
+      "valueFormula": "7"
+    },
+    {
+      "name": "Plastic clothes hangers",
+      "quantityFormula": "1d10",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Cardboard box of broken electronics",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Synthetic stew-protein cans",
+      "quantityFormula": "1d6",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Dust-covered trideo remote (no batteries)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Synthetic broth pouches without noodles",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Plastic spray bottle (cleaner unknown)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Closet rod with wire hangers",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Bent steel spoon used as tool",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Synthetic chili/soy bean meal pouches",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Wired hand mixer (weak motor)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Wired hot water coil (cup heater)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "PVC pipe segment (curtain rod)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Old metal toolbox",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Synthetic breakfast mush cans",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Old notebook (half filled)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Stack of junk mail",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Laundry detergent packet (half empty)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Portable space heater (weak output)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Synthetic Kaf powder packets",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Old wire shelf (paint flaking)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Broken wall mirror",
+      "quantityFormula": "1",
+      "valueFormula": "7"
+    },
+    {
+      "name": "Synthetic rice substitute packets",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Chick’n Nugge Nuke and Eat Snack Pack Voodoo Chili Flavor",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Synthetic Dagwood Sandwich (Made from insect protein.)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Baggie: 1d6 doses street downers",
+      "quantityFormula": "1d6",
+      "valueFormula": "10"
+    }
+  ]
+},
+{
+  "id": "streetdoc",
+  "name": "Street Doc's Clinic",
+  "items": [
+    {
+      "name": "Stainless Autoclave Tray",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Manual Blood Pressure Cuff (Worn Velcro)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Surgical Clamp Set (Mixed Brands, 1d6 Pieces)",
+      "quantityFormula": "1d6",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Local Anesthetic Vial (Half Full, Expired)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Manual Bone Saw (Not Powered)",
+      "quantityFormula": "1",
+      "valueFormula": "15"
+    },
+    {
+      "name": "Suture Thread Packets (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Stainless Kidney Dish",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Wall-Mounted Chart of Human Anatomy (2053 Revision)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Handheld Penlight (Weak Output)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Latex-Free Exam Gloves (1d6 pairs)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Chemical Warming Gel Pack (Used but Re-sealed)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Saline Bag (250 mL, Unopened)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Tourniquet Strap (Elastic Failing)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Dental Pick and Scraper Set",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Sterile Gauze Rolls (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Morphine Ampule (Single-dose, Unmarked)",
+      "quantityFormula": "1",
+      "valueFormula": "45"
+    },
+    {
+      "name": "Surgical Mask Box (1d10 masks)",
+      "quantityFormula": "1d10",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Alcohol Prep Pad Pack (Half Used)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Holo-Illuminated Eye Chart (Lens System Broken)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Refurbished Medical Gurney (Wheel Lock Inconsistent)",
+      "quantityFormula": "1",
+      "valueFormula": "35"
+    },
+    {
+      "name": "Plastic Biohazard Sharps Container (Half Full)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Handwritten Patient Ledger (Paper, Not Digital)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Refillable Syringe Kit (Metal Plunger)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Stainless Steel IV Stand (Weld Repaired)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Wall-Mounted Bleach Dispenser (Half-Empty)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Roll of Medical Tape (Edges Yellowing)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Old Biomedical Reference Text (2051 Print)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Portable Hand Suction Bulb",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Cold Pack Brick (Requires Freezing)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Steel Tray of Extracted Cyberware Fragments (1d6 pieces)",
+      "quantityFormula": "1d6",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Biohazard Waste Bag Roll (1d6 bags)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Antiseptic Wash Bottle (Half Used)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Glass Vial Storage Rack (Empty)",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Stainless Instrument Sterilization Basket",
+      "quantityFormula": "1",
+      "valueFormula": "7"
+    },
+    {
+      "name": "Manual Defibrillator (Outdated Model)",
+      "quantityFormula": "1",
+      "valueFormula": "65"
+    },
+    {
+      "name": "Portable Wash Basin (Plastic)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "QuikSuture Gel Packet (Expired)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Medical Clipboard with Paper and Graph Pencil",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Replacement Stethoscope Earpieces (1d4 pairs)",
+      "quantityFormula": "1d4",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Rubber Fish-Bone Finger Splints (1d6 sizes)",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Sterile Syringe Disposal Tongs",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Diagnostic Reflex Hammer",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Analog Thermometer (Mercury Column)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Wall-Mounted Fan (Weak Motor)",
+      "quantityFormula": "1",
+      "valueFormula": "14"
+    },
+    {
+      "name": "Paper Medical Gowns (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Full-Size Surgical Light (One Bulb Dead)",
+      "quantityFormula": "1",
+      "valueFormula": "65"
+    },
+    {
+      "name": "Box of Assorted Splint Boards",
+      "quantityFormula": "1",
+      "valueFormula": "9"
+    },
+    {
+      "name": "Stainless Steel Stool (Squeaks)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Hazard Symbol Stickers (Fading Adhesive)",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Hand Pump Blood Extractor",
+      "quantityFormula": "1",
+      "valueFormula": "22"
+    },
+    {
+      "name": "Pharmaceutical Sample Box (Empty)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Half-Used Bottle of Pain Suppression Tablets (Rating 2, 1d6 doses)",
+      "quantityFormula": "1d6",
+      "valueFormula": "4"
+    },
+    {
+      "name": "IV Tubing Coils (1d6 lengths)",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Medical Grade Scissors (Tip Blunted)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Pocket Diagnostic Chart Cards",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Autoclave Pressure Gauge (Detached)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Biohazard Spill Powder (Container 1/3 Full)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Cotton Swab Canister (Half Full)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Stainless Surgical Tray Cart (Wheel Jammed)",
+      "quantityFormula": "1",
+      "valueFormula": "45"
+    },
+    {
+      "name": "Painkiller Inhalant Mask (Reusable)",
+      "quantityFormula": "1",
+      "valueFormula": "15"
+    },
+    {
+      "name": "Rigid Neck Brace (Adjustable)",
+      "quantityFormula": "1",
+      "valueFormula": "9"
+    },
+    {
+      "name": "Surgical Cap Dispenser (Few Remaining Caps)",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Plastic Biohazard Sign (Cracked Edge)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Aluminum Crutch Pair (Rubber Tips Worn)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Thermal Blanket (Emergency Foil)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Manual Heartbeat Monitor (Stethoscope + Chest Piece)",
+      "quantityFormula": "1",
+      "valueFormula": "14"
+    },
+    {
+      "name": "Bottle of Antimicrobial Hand Scrub (1/4 Full)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Surgical Scrub Brush Packets (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Hydrogel Burn Pad (Sealed)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Portable Metal Exam Lamp (Clamp Bent)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Oral Airway Tubes (1d6 sizes)",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Sanitary Bed Pads (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Stainless Steel Sink (Drain Slow)",
+      "quantityFormula": "1",
+      "valueFormula": "20"
+    },
+    {
+      "name": "Medical Waste Bin (Foot Pedal Sticks)",
+      "quantityFormula": "1",
+      "valueFormula": "9"
+    },
+    {
+      "name": "Plastic Pill Counter Tray and Spatula",
+      "quantityFormula": "1",
+      "valueFormula": "7"
+    },
+    {
+      "name": "Foot Compression Pump (Manual)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Cold Sterilization Bath (Cloudy Fluid)",
+      "quantityFormula": "1",
+      "valueFormula": "14"
+    },
+    {
+      "name": "Box of Syringe Needles (Mixed Gauges, Salvage)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Plaster Cast Roll (Drying at Edges)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Portable Field Stitch Kit (Rating 2, Half-Stocked)",
+      "quantityFormula": "1",
+      "valueFormula": "22"
+    },
+    {
+      "name": "Biofoam Applicator (1 dose)",
+      "quantityFormula": "1",
+      "valueFormula": "35"
+    },
+    {
+      "name": "Stainless Steel Surgical Bowl (Deep)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Worn Canvas Apron (Dried Blood Staining)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Box of Tongue Depressors (1d10)",
+      "quantityFormula": "1d10",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Portable Vital Scanner (Rating 1)",
+      "quantityFormula": "1",
+      "valueFormula": "45"
+    },
+    {
+      "name": "Bulk Bag of Cotton Balls (Half Full)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Medical Waste Transport Crate (Latches Loose)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Industrial Alcohol Bottle (Not for Drinking)",
+      "quantityFormula": "1",
+      "valueFormula": "9"
+    },
+    {
+      "name": "Manual Bone Spacers (1d4 sizes)",
+      "quantityFormula": "1d4",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Pack of Steri-Strips (1 sheet)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Field Tourniquet Stick (Improvised)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Rag Bin of Laundered Shop Towels",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Stainless Cylinder Sample Jar (Sealed)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Clip-On Surgical Lamp (Bulb Flickers)",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Polymer Restraint Straps (1d4)",
+      "quantityFormula": "1d4",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Surgical Scrub Jacket (Synthetic Fabric)",
+      "quantityFormula": "1",
+      "valueFormula": "7"
+    },
+    {
+      "name": "Biohazard Liquid Absorbent Powder (Nearly Empty)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Sterile Needle Disposal Canister (Full)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Field Autopsy Roll (Tools Missing 1d3 Slots)",
+      "quantityFormula": "1",
+      "valueFormula": "45"
+    },
+    {
+      "name": "Back-Alley Doc's Chair (Vinyl Torn, Metal Frame Solid)",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    }
+  ]
+}, 
+{
+  "id": "organleggers",
+  "name": "Organ Chop Shop",
+  "items": [
+    {
+      "name": "Stainless Operating Table (Drain Channel Cut Into Center)",
+      "quantityFormula": "1",
+      "valueFormula": "55"
+    },
+    {
+      "name": "Plastic Cooler With Melted Ice Slurry",
+      "quantityFormula": "1",
+      "valueFormula": "varies"
+    },
+    {
+      "name": "Vacuum-Sealed Organ Transport Pouch (Used, Rinsed)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Bucket of Discarded Tissue Fragments",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Bone Chisel With Hammered Pommel",
+      "quantityFormula": "1",
+      "valueFormula": "14"
+    },
+    {
+      "name": "Power Bone Saw (Low Battery Motor)",
+      "quantityFormula": "1",
+      "valueFormula": "85"
+    },
+    {
+      "name": "Rack of Synthetic Organ Models (Training-Grade, 1d6 Units)",
+      "quantityFormula": "1d6",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Unlabeled Cooler Insert Pan",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Surgical Drain Tubing Coil (Pink Interior Film)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Refrigerated Compartment (Temp Drift 4–7°C)",
+      "quantityFormula": "1",
+      "valueFormula": "45"
+    },
+    {
+      "name": "Disposable Plastic Aprons (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Stainless Organ Weighing Scale (Display Lag)",
+      "quantityFormula": "1",
+      "valueFormula": "22"
+    },
+    {
+      "name": "Specimen Jar Rack (Three Filled With Clouded Fluid)",
+      "quantityFormula": "1",
+      "valueFormula": "9"
+    },
+    {
+      "name": "Medical Waste Bin (Overflowing)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Blood Collection Reservoir (Gravity Drip)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Improvised Rib Spreader (Automotive Wrench Modified)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Synthetic Muscle Fiber Spool (1 Meter)",
+      "quantityFormula": "1",
+      "valueFormula": "20"
+    },
+    {
+      "name": "Blank Organ Transport Tags",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Industrial Bleach Drum (Quarter Full)",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Sterile Scalpels (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Handheld Surgical Suction Pump",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Stainless Hemostat Set (1d6 pieces)",
+      "quantityFormula": "1d6",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Stainless Catch Bowl (Deep)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Bone Forceps (Heavy-Gauge)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Manual Defibrillator (Hand-Crank)",
+      "quantityFormula": "1",
+      "valueFormula": "65"
+    },
+    {
+      "name": "Disposable Syringe Pack (Mixed Gauges, Re-Sterilized)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Surgical Mask Dispenser (Few Remaining)",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Paper Gown Roll (Cheap Tissue Stock)",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Iodine Bottles (1d6, Half-Full)",
+      "quantityFormula": "1d6",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Bloodied Vinyl Floor Mat (No Grip Texture)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Rusted Metal Biohazard Sign",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Scalpel Handle With Interchangeable Blades (1d6 blades)",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Foam Organ Positioning Block (Stained)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Surgical Clamp Rack (Empty)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Cold Sterilization Pan (Chemical Residue)",
+      "quantityFormula": "1",
+      "valueFormula": "14"
+    },
+    {
+      "name": "Field Dressing Pack (Rating 1, Half-Stocked)",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Autopsy Bone Shears",
+      "quantityFormula": "1",
+      "valueFormula": "35"
+    },
+    {
+      "name": "Manual Stitch Needle Set (1d6 needles)",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Coagulated Blood Jar (Sealed)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Plastic Shoe Covers (1d6 pairs)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Salvaged Cyberware Socket Frame (Non-Functional)",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Cyberarm Servo Motor (Seized)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Biofilter Cartridge (Expired)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Portable Blood Warmer (Heating Patch Burned)",
+      "quantityFormula": "1",
+      "valueFormula": "14"
+    },
+    {
+      "name": "Surgical Step Stool (Grease on Tread)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Discarded Cyber-Eye Housing (Lens Removed)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Microfibril Tendon Spool (1/3 remaining)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Artery Clips (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Flask of Denatured Ethanol",
+      "quantityFormula": "1",
+      "valueFormula": "7"
+    },
+    {
+      "name": "Synthetic Blood Bag (Expired, Sealed)",
+      "quantityFormula": "1",
+      "valueFormula": "20"
+    },
+    {
+      "name": "Plastic-Assisted Lung Patch (Single-Use, Sterile)",
+      "quantityFormula": "1",
+      "valueFormula": "30"
+    },
+    {
+      "name": "Peristaltic Pump (Low Flow)",
+      "quantityFormula": "1",
+      "valueFormula": "22"
+    },
+    {
+      "name": "Stainless Needle Driver",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Bone Marrow Scraper",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Post-Op Drip Stand (Base Bent)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Scalpel Blade Disposal Tin (Mostly Full)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Pack of Latex-Free Gloves (1d6 pairs)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Organ Size Measurement Calipers",
+      "quantityFormula": "1",
+      "valueFormula": "9"
+    },
+    {
+      "name": "Plastic Kidney Dish (Dyed Brown Edges)",
+      "quantityFormula": "1",
+      "valueFormula": "2"
+    },
+    {
+      "name": "Metal Wall Hooks (Blood Rusted)",
+      "quantityFormula": "1",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Tissue Rehydration Gel (Half Jar)",
+      "quantityFormula": "1",
+      "valueFormula": "15"
+    },
+    {
+      "name": "Bone Fragment Tray (Dried Residue)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Vacuum Line Hose Adapter (Cracked Collar)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Surgical Table Restraint Straps (1d4)",
+      "quantityFormula": "1d4",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Anesthetic Gas Mask (Valve Sticks)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Industrial Disposal Bags (1d6)",
+      "quantityFormula": "1d6",
+      "valueFormula": "1"
+    },
+    {
+      "name": "Re-Sharpened Bone Scalpel",
+      "quantityFormula": "1",
+      "valueFormula": "7"
+    },
+    {
+      "name": "Surgical Sponge Tray (Pink Tint)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Organ Transfer Clamp (Heavy)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Kidney Perfusion Tube Set (Incomplete)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Wire-Handled Tissue Hook (Bent Tip)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Arterial Spread Forceps (Lock Weak)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Biohazard Disposal Trolley (Wheel Jammed)",
+      "quantityFormula": "1",
+      "valueFormula": "22"
+    },
+    {
+      "name": "Synthetic Ligament Coil (Partial Roll)",
+      "quantityFormula": "1",
+      "valueFormula": "14"
+    },
+    {
+      "name": "Fluid Waste Collection Container (Clouded)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Portable Monitor (Vitals Only, Flickers)",
+      "quantityFormula": "1",
+      "valueFormula": "30"
+    },
+    {
+      "name": "Synthetic Nerve Sleeve (Short Section)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Expired Transplant Cooling Gel Pack",
+      "quantityFormula": "1",
+      "valueFormula": "10"
+    },
+    {
+      "name": "Portable Suction Reservoir (Cap Cracked)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Improvised Restraint Bar (Rebar Wrapped in Tape)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Flesh Adhesive Tube (Half Full)",
+      "quantityFormula": "1",
+      "valueFormula": "25"
+    },
+    {
+      "name": "Dehydrated Tissue Sample (Unlabeled)",
+      "quantityFormula": "1",
+      "valueFormula": "5"
+    },
+    {
+      "name": "Stainless Bowl Stand",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Plastic Apron Hanger Rail",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Expired IV Drug Cartridges (1d3)",
+      "quantityFormula": "1d3",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Bone Alignment Shim Set",
+      "quantityFormula": "1",
+      "valueFormula": "9"
+    },
+    {
+      "name": "Organ Cooler Rack (Bent Frame)",
+      "quantityFormula": "1",
+      "valueFormula": "7"
+    },
+    {
+      "name": "Surgical Lamp Mobile Arm (Joint Loose)",
+      "quantityFormula": "1",
+      "valueFormula": "18"
+    },
+    {
+      "name": "Multi-Gauge Needle Kit (Mixed Condition)",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Synthetic Blood Powder (Reconstitution Required)",
+      "quantityFormula": "1",
+      "valueFormula": "20"
+    },
+    {
+      "name": "Tissue Separator (Paddle Style)",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    },
+    {
+      "name": "Discarded Rib Cage Section (Cleaned Bone)",
+      "quantityFormula": "1",
+      "valueFormula": "0"
+    },
+    {
+      "name": "Drainage Bag (Yellowed Plastic)",
+      "quantityFormula": "1",
+      "valueFormula": "4"
+    },
+    {
+      "name": "Replacement Breathing Tube (Sealed, Outdated Model)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Surgical Cap Hook Board",
+      "quantityFormula": "1",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Cold Cabinet Thermometer (Reads -2°C Off)",
+      "quantityFormula": "1",
+      "valueFormula": "6"
+    },
+    {
+      "name": "Sterile Field Drape Pack (Corners Worn)",
+      "quantityFormula": "1",
+      "valueFormula": "12"
+    },
+    {
+      "name": "Mobile Equipment Tray (Three Wheels Work)",
+      "quantityFormula": "1",
+      "valueFormula": "16"
+    },
+    {
+      "name": "Blood Typing Test Kit (Expired, 1d6 tests remain)",
+      "quantityFormula": "1d6",
+      "valueFormula": "3"
+    },
+    {
+      "name": "Steel Drain Grate (Floor-Mounted, Rusted Edges)",
+      "quantityFormula": "1",
+      "valueFormula": "8"
+    }
+  ]
+}
+]
