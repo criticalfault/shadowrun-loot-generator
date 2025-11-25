@@ -13,6 +13,11 @@ jobs:
       # Clone the repo
       - name: Clone repository
         uses: actions/checkout@v4
+      # Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
       # Cache node modules
       - name: Cache node modules
         uses: actions/cache@v4
@@ -29,7 +34,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: build
-          path: build
+          path: dist
 
   deploy:
     runs-on: ubuntu-latest
@@ -40,7 +45,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: build
-          path: build
+          path: dist
       # Setup the AWS credentials
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4
@@ -48,7 +53,7 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
-      # Copy the files from /build to s3 bucket
+      # Copy the files from /dist to s3 bucket
       - name: Deploy static site to S3 bucket
         run: aws s3 sync . s3://${{ secrets.S3_BUCKET_NAME }} --delete
-        working-directory: build
+        working-directory: dist
