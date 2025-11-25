@@ -191,6 +191,7 @@ function App() {
 
   return (
     <div className="container my-5">
+      <div>Love this utility? We have more! Checkout <a href='https://www.nullsheen.com' target='_blank'>NullSheen.com</a></div>
       {/* Main Header */}
       <div className="text-center mb-5">
         <h1 className="display-4 mb-2">Shadowrun Loot Generator</h1>
